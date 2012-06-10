@@ -1,4 +1,0 @@
-#!/bin/bash
-
-g++ -O3 -Wall *.cpp -o wt
-rm *.o
